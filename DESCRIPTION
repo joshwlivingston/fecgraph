@@ -1,0 +1,15 @@
+Package: fecgraph
+Version: 0.0.1
+Title: Graph Analysis Of FEC Data
+Description: Analyze FEC data as a graph.
+Authors@R: person(given = "Josh",
+       family = "Livingston",
+       role = c("aut", "cre"),
+       email = "joshwlivingston@gmail.com")
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Suggests: 
+    devtools,
+    rmarkdown
