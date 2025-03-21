@@ -4,6 +4,8 @@
 # fecgraph
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/joshwlivingston/fecgraph/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/joshwlivingston/fecgraph/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of fecgraph is to …
