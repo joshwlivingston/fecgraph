@@ -13,5 +13,5 @@ RoxygenNote: 7.3.2
 Suggests: 
     devtools,
     rmarkdown
-URL: https://github.com/joshwlivingston/fecgraph
+URL: https://github.com/joshwlivingston/fecgraph, https://joshwlivingston.github.io/fecgraph/
 BugReports: https://github.com/joshwlivingston/fecgraph/issues
